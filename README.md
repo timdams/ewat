@@ -5,7 +5,7 @@ This repo contains the Matlab watermarking toolbox as described in paper An imag
 Start the toolbox by starting advanced_watermarking_tool.m  (also set path+ subdirs).
 
 #Can I steal this?
-Yes , but should you wish to use/cite this code, feel free to contact us (tim.dams@artesis.be) so we at least know who's toying around with this
+Yes , but should you wish to use/cite this code, feel free to contact us (tim.dams@ap.be) so we at least know who's toying around with this
 Feel free to use this Matlab-toolbox anyway possible. Any code copied belongs to the original authors.
 
 *If you wish to reference, please use one of the following:*
