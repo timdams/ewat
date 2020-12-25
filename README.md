@@ -15,7 +15,7 @@ No, all the authors have gone other ways. We just provide the code as-is and hop
 Awesome. Fork it, change it and if you think your improvements are beneficial for others, feel free to send us a pull request and we'd be happy to incorporate your changes.
 
 # Citing
-** If you wish to reference, please use one of the following:**
+**If you wish to reference, please use one of the following:**
 
 "An Image Watermarking Tutorial Tool using Matlab",Kevin HEYLEN and Tim DAMS, Conference of Mathematics of Data/Image Pattern Recognition, Compression, and Encryption with Applications XI, SPIE, San Diego, USA, 10-14 August 2008
 
